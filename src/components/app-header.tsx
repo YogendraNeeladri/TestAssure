@@ -10,7 +10,7 @@ export function AppHeader() {
         </h1>
       </div>
       <p className="text-muted-foreground text-lg">
-        AI-Powered QA Automation for E-Commerce Platforms
+      Smart Automated Testing for Online Shopping Websites
       </p>
     </header>
   );
